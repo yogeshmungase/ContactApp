@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ContactApp</string>
+    <string name="wellcome_to_login_page">Wellcome to Login Page</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="callbutton" />
+</resources>
